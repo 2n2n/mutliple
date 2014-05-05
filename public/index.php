@@ -1,6 +1,6 @@
 <?php
 /*
-test mo to
+YES! it works!
 */
 error_reporting(E_ALL);
 
