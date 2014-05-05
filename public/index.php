@@ -1,6 +1,6 @@
 <?php
 /*
-YES! it works!
+Hello world! this should work!
 */
 error_reporting(E_ALL);
 
