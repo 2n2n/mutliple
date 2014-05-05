@@ -1,5 +1,5 @@
 <?php
-/* ignored */
+/* I will be ignored! */
 namespace Multiple\Frontend;
 
 class Module
