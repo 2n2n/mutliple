@@ -1,7 +1,5 @@
 <?php
-/*
-Hello world! this should work!
-*/
+/* TESTER! */
 error_reporting(E_ALL);
 
 class Application extends \Phalcon\Mvc\Application
