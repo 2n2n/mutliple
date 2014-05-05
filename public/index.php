@@ -1,5 +1,5 @@
 <?php
-
+/*hello world*/
 error_reporting(E_ALL);
 
 class Application extends \Phalcon\Mvc\Application
