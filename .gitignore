@@ -1,2 +1,2 @@
-.igitignore
-public/index.php
+.gitignore
+apps/backend/*
