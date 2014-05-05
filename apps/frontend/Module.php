@@ -1,6 +1,5 @@
 <?php
-/*HELLO WORLD!!*/
-/* shut this down!*/
+/* ignored */
 namespace Multiple\Frontend;
 
 class Module
