@@ -1,7 +1,6 @@
 <?php
 /*
-hello world
-haha d nakasali yung gitignore at yung index.php 
+hello i am push to the repo but cannot be pulled.
 */
 error_reporting(E_ALL);
 
