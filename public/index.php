@@ -1,5 +1,8 @@
 <?php
-/*hello world*/
+/*
+hello world
+haha d nakasali yung gitignore at yung index.php 
+*/
 error_reporting(E_ALL);
 
 class Application extends \Phalcon\Mvc\Application
