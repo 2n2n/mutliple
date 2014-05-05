@@ -1,4 +1,4 @@
-.gitignore
-.htaccess
-public/*
-apps/frontend/*
+!.gitignore
+!.htaccess
+!public/*
+!apps/frontend/*
